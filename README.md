@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niklar2004
 - 👀 I’m interested in Python, computer science, golf
-- 🌱 I’m currently learning Computerr Science
+- 🌱 I’m currently learning Computer Science, Python
 - 💞️ I’m looking to collaborate on project with some kind of mentorship
 - 📫 How to reach me ...
 
